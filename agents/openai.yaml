@@ -1,0 +1,14 @@
+interface:
+  display_name: AI Space Governance
+  short_description: Quản lý vị trí và quy tắc lưu file AI Space
+  default_prompt: Use $ai-space-governance to place and manage this durable artifact
+    correctly in AI_Space.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
