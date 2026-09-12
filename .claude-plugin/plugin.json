@@ -1,0 +1,13 @@
+{
+  "name": "ai-governance",
+  "version": "1.0.0",
+  "description": "Bo cong cu quan tri thu muc AI Space",
+  "author": {
+    "name": "Ngo Xuan Hung"
+  },
+  "keywords": [
+    "governance",
+    "ai-space",
+    "management"
+  ]
+}
